@@ -1,0 +1,7 @@
+gradio==4.32.2
+langchain_community==0.0.38
+langchain_core==0.1.52
+langchain_openai==0.0.8
+langsmith==0.1.25
+google-api-python-client==2.131.0
+bs4==0.0.2
